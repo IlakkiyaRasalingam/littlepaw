@@ -8062,6 +8062,8 @@ h1, h2, h3, h4, h5,
   background: #fff !important;
   z-index: 3;
   padding: 0;
+      position: fixed;
+      width: 100%;
   -webkit-box-shadow: 0px 5px 20px -17px rgba(0, 0, 0, 0.34);
   -moz-box-shadow: 0px 5px 20px -17px rgba(0, 0, 0, 0.34);
   box-shadow: 0px 5px 20px -17px rgba(0, 0, 0, 0.34); }
